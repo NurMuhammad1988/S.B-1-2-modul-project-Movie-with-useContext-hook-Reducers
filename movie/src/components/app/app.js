@@ -7,8 +7,7 @@ import MoviesAddForm from "../movies-add-form/movies-add-form";
 import { Context } from "../../context";
 import "./app.css";
 
-////S B 1-2-modul project  Movie with useContext hook  Reducers with data jsonplaceholder
-
+////S.B-1,2-modul project  Movie with useContext hook,  Reducers with comment and npm run build with data jsonplaceholder for app.netlify.com
 const App = () => {
     const [isLoading, setIsLoading] = useState(false);
 
