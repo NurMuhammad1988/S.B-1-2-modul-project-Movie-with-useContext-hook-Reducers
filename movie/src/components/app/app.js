@@ -4,10 +4,11 @@ import SearchPanel from "../search-panel/search-panel";
 import AppFilter from "../app-filter/app-filter";
 import MovieList from "../movie-list/movie-list";
 import MoviesAddForm from "../movies-add-form/movies-add-form";
+//
 import { Context } from "../../context";
 import "./app.css";
 
-////S.B-1,2-modul project  Movie with useContext hook,  Reducers with comment and npm run build with data jsonplaceholder for app.netlify.com
+////S.B-1,2-modul project  Movie with useContext hook,  Reducers with comment and npm run build with data jsonplaceholder for app.netlify.com 
 const App = () => {
     const [isLoading, setIsLoading] = useState(false);
 
