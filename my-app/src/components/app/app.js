@@ -8,7 +8,7 @@ import MoviesAddForm from "../movies-add-form/movies-add-form";
 import { Context } from "../../context";
 import "./app.css";
 
-// vercalga react project qo'yish netlifydan oson ekan endi vercalgaham doim hamma loyihalarni qo'yib borish kerak ekan
+// vercalga react project qo'yish netlifydan oson ekan endi vercalgaham doim hamma loyihalarni qo'yib borish kerak ekan va build papka doim bo'lishi kerak???
 
 ////S.B-1,2-modul project  Movie with useContext hook,  Reducers with comment and npm run build with data jsonplaceholder for app.netlify.com 
 const App = () => {
