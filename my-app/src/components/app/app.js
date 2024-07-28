@@ -8,6 +8,8 @@ import MoviesAddForm from "../movies-add-form/movies-add-form";
 import { Context } from "../../context";
 import "./app.css";
 
+// vercalga react project qo'yish netlifydan oson ekan endi vercalgaham doim hamma loyihalarni qo'yib borish kerak ekan
+
 ////S.B-1,2-modul project  Movie with useContext hook,  Reducers with comment and npm run build with data jsonplaceholder for app.netlify.com 
 const App = () => {
     const [isLoading, setIsLoading] = useState(false);
